@@ -1,11 +1,11 @@
 <img src="https://komarev.com/ghpvc/?username=xjoelanarba&color=blue"/>
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I am Amuni Anarba Jorl!
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I am Amuni Anarba Joel!
 ### Interests ➤ **`</>`** **`>_`** **`☦︎`** **`🇲🇰`** 👨‍💻🌐⚡🚴🏋🏻‍♂️🎮❤️🚀 <br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joelanarba&theme=shadow_red&hide_border=false&layout=compact) <br/><br/>
-![](https://github-readme-stats.vercel.app/api?username=xStephx&show_icons=true&theme=shadow_red) <br/> <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=xStephx&theme=shadow_red&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=joelanarba&show_icons=true&theme=shadow_red) <br/> <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=joelanarba&theme=shadow_red&hide_border=false)
 
 ### 💻 | Tech Skills
 
@@ -27,7 +27,7 @@
 </p>
 <br>
 
-[![](https://quotes-github-readme.vercel.app/api?quote=Everything%20happens%20for%20a%20reason.&border=true&type=horizontal&author=Unknown%20Author&theme=dark)](https://github.com/xStephx) 
+[![](https://quotes-github-readme.vercel.app/api?quote=Everything%20happens%20for%20a%20reason.&border=true&type=horizontal&author=Unknown%20Author&theme=dark)](https://github.com/joelanarba) 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=F70000&width=435&lines=Thank+you+for+your+visiting!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 _**<p align="center">Made with❤️ by © Joel</p>**_
