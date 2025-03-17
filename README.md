@@ -23,7 +23,7 @@
 
 - **Programming and Markup Languages**:
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c++)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cpp)](https://skillicons.dev)
 
 - **Frameworks and Libraries**:
 
